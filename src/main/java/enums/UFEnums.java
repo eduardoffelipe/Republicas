@@ -9,7 +9,7 @@ package enums;
  *
  * @author eduar
  */
-public class UFEnums {
+public enum UFEnums {
     AC(1),
     AL(2),
     AM(3),
